@@ -5,16 +5,6 @@ The files have been organized in the following directory structure:
 
     .
     ├── README.md
-    ├── chapters
-    │   ├── appendix1
-    │   │   ├── appendix.tex
-    │   │   └── img
-    │   ├── chapter1
-    │   │   ├── chapter1.tex
-    │   │   └── img
-    │   ├── abstract.tex
-    │   ├── acknowledgements.tex
-    │   └── titlepage.tex
     ├── pnas.bst
     ├── references.bib
     ├── rpithesis.cls
