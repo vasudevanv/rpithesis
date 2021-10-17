@@ -1,3 +1,5 @@
+***This latex template is no longer the recommended format. Please consult the RPI office of graduate education thesis preparation guide for latest guidelines.***
+
 # RPI Thesis Template
 Latex style files for preparing doctoral dissertations compliant with the requirements of the Office of Graduate Education at Rensselaer Polytechnic Institute.
 
